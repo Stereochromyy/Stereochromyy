@@ -10,9 +10,12 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stereochromyy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Stereochromyy&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Stereochromyy?tab=followers">
-    <img src="https://img.shields.io/github/followers/Stereochromyy?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Stereochromyy?color=0CAFFF&label=Followers&logo=github&style=for-the-badge" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Stereochromyy">
+    <img src="https://img.shields.io/github/stars/Stereochromyy?color=FF69B4&label=Stars&logo=github&style=for-the-badge" alt="Stars"/>
   </a>
 </p>
 
