@@ -26,7 +26,7 @@ Software Engineering graduate with hands-on experience in software development, 
 ## 🛠 Tech Stack & Tools
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,r,html,css,ts,js,php,cs,cpp,dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java,python,r,html,css,ts,js,php,cs,cpp,dotnet" height="50"/>
 </p>
 
 ### 🧰 Frameworks & Libraries
